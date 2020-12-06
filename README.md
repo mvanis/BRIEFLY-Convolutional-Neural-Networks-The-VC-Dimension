@@ -10,3 +10,6 @@
 https://github.com/mvanis/BRIEFLY-Convolutional-Neural-Networks-The-VC-Dimension/blob/main/A_Data_Mining_Final_Project.pdf
 
 '[embed]https://github.com/mvanis/BRIEFLY-Convolutional-Neural-Networks-The-VC-Dimension/blob/main/A_Data_Mining_Final_Project.pdf'
+
+https://docs.google.com/viewer?url=https://github.com/mvanis/BRIEFLY-Convolutional-Neural-Networks-The-VC-Dimension/blob/main/A_Data_Mining_Final_Project.pdf
+
